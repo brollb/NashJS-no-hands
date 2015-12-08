@@ -1,0 +1,23 @@
+{
+  "components": {
+    "plugins": {
+      "QueryDependencies": {
+        "src": "src/plugins/QueryDependencies",
+        "test": "test/plugins/QueryDependencies"
+      }
+    },
+    "addons": {},
+    "decorators": {},
+    "layouts": {},
+    "seeds": {},
+    "visualizers": {}
+  },
+  "dependencies": {
+    "plugins": {},
+    "addons": {},
+    "decorators": {},
+    "layouts": {},
+    "seeds": {},
+    "visualizers": {}
+  }
+}
