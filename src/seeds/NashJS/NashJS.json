@@ -1,0 +1,1016 @@
+{
+  "root": {
+    "path": "",
+    "guid": "03d36072-9e09-7866-cb4e-d0a36ff825f6"
+  },
+  "containment": {
+    "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58": {
+      "04af1225-eb30-339d-5c2a-243fe66ddace": {},
+      "066abe24-8d3b-05a9-cb79-858ce2229b59": {},
+      "072ffed8-92c9-4e7a-3cce-8a1bca540e16": {},
+      "0f5cc56a-d3c5-12f5-5d89-ac15c8c13845": {},
+      "10b1bcac-1e7f-087a-08d0-abb54832e0b9": {},
+      "150ee38d-5a60-53da-bc89-8fef66909979": {},
+      "174d335d-865f-c4f3-3761-87ddde324adc": {},
+      "2dd7867b-7776-bdb3-95c7-f9b21fb00252": {},
+      "33fdca3a-cf39-d820-d6c2-8ed1bee33ed4": {},
+      "431458ac-345c-bfed-543d-1503f077e2e9": {},
+      "449f3219-6f9f-7e1a-69e1-275f01f3533f": {},
+      "4fc002bb-644b-9afa-0f03-6fede9f730ec": {},
+      "5415fb3e-ffc5-09c4-1096-2724ae080234": {},
+      "59ac9c14-a143-c7ba-da49-f850ce6dc526": {},
+      "5a7a7f3a-9fd0-ae60-5937-8f9b2f258768": {},
+      "75546f1b-3fe1-173f-48a5-5b4bd0365451": {},
+      "7a470b58-1174-3af7-e4ef-c8ea8f87cd48": {},
+      "7dc1ef82-9874-7bbc-bcb9-cf88905b2232": {},
+      "93dd35af-13e0-d905-a39d-772add0f373a": {},
+      "a353e2c1-61dc-72ea-7778-452d28349160": {},
+      "b6610f2a-3239-2eaa-96dd-4dcc5f292f05": {},
+      "b903890a-d132-b52f-edbf-93eacbf48389": {},
+      "bc3f33b9-0348-272b-9761-9c741b7d28c1": {},
+      "bfb905f3-3529-0f41-628e-313604510e58": {},
+      "c0656286-2e82-a2f7-9ced-68abe6a69c1f": {},
+      "c2eae233-5989-2d19-4f60-67a89006a318": {},
+      "c7dd6129-2c9a-60e7-d987-7caa48e4cc44": {},
+      "c897a264-5627-db6f-bb65-5fc4f1c6216c": {},
+      "cee3ff11-7838-3e3c-46db-653927fc3221": {},
+      "d7eb17ad-b5bd-cbb9-517d-69c293c7069a": {},
+      "ddf71da2-44ad-d87d-469a-adbbdbc6c2df": {},
+      "e82fcff0-3900-b735-4674-303f0874671e": {},
+      "fc00499e-1b38-1651-c44b-e05d0bf6a56e": {}
+    },
+    "2c2bd0fa-3392-4e3a-871c-cb8d29c1eeee": {},
+    "2c98c810-6324-a882-0f22-faf8aab93689": {},
+    "85d374f0-03f1-b7ba-cf01-6af945f110fc": {},
+    "cd891e7b-e2ea-e929-f6cd-9faf4f1fc045": {}
+  },
+  "bases": {},
+  "nodes": {
+    "03d36072-9e09-7866-cb4e-d0a36ff825f6": {
+      "attributes": {
+        "name": "ROOT"
+      },
+      "base": null,
+      "meta": {
+        "attributes": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "children": {
+          "items": [
+            "cd891e7b-e2ea-e929-f6cd-9faf4f1fc045"
+          ],
+          "minItems": [
+            -1
+          ],
+          "maxItems": [
+            -1
+          ]
+        }
+      },
+      "parent": null,
+      "pointers": {
+        "base": null
+      },
+      "registry": {
+        "MetaSheets": [
+          {
+            "SetID": "MetaAspectSet_68f8146d-b1b7-6c40-3464-f8c070e97e8d",
+            "order": 0,
+            "title": "META"
+          }
+        ],
+        "ProjectRegistry": {
+          "FCO_ID": "/1"
+        },
+        "usedAddOns": "",
+        "validDecorators": "ModelDecorator CircleDecorator MetaDecorator SVGDecorator UMLStateMachineDecorator DefaultDecorator",
+        "validPlugins": " QueryDependencies",
+        "validVisualizers": "ModelEditor METAAspect"
+      },
+      "sets": {
+        "MetaAspectSet": [
+          {
+            "attributes": {},
+            "guid": "2c2bd0fa-3392-4e3a-871c-cb8d29c1eeee",
+            "registry": {
+              "position": {
+                "x": 210,
+                "y": 273
+              }
+            }
+          },
+          {
+            "attributes": {},
+            "guid": "2c98c810-6324-a882-0f22-faf8aab93689",
+            "registry": {
+              "position": {
+                "x": 42,
+                "y": 257
+              }
+            }
+          },
+          {
+            "attributes": {},
+            "guid": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+            "registry": {
+              "position": {
+                "x": 289,
+                "y": 269
+              }
+            }
+          }
+        ],
+        "MetaAspectSet_68f8146d-b1b7-6c40-3464-f8c070e97e8d": [
+          {
+            "attributes": {},
+            "guid": "2c2bd0fa-3392-4e3a-871c-cb8d29c1eeee",
+            "registry": {
+              "position": {
+                "x": 172,
+                "y": 67
+              }
+            }
+          },
+          {
+            "attributes": {},
+            "guid": "2c98c810-6324-a882-0f22-faf8aab93689",
+            "registry": {
+              "position": {
+                "x": 85,
+                "y": 168
+              }
+            }
+          },
+          {
+            "attributes": {},
+            "guid": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+            "registry": {
+              "position": {
+                "x": 255,
+                "y": 168
+              }
+            }
+          }
+        ]
+      },
+      "constraints": {}
+    },
+    "04af1225-eb30-339d-5c2a-243fe66ddace": {
+      "attributes": {
+        "name": "Master Sword"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "position": {
+          "x": 247,
+          "y": 708
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "066abe24-8d3b-05a9-cb79-858ce2229b59": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "10b1bcac-1e7f-087a-08d0-abb54832e0b9",
+        "src": "b903890a-d132-b52f-edbf-93eacbf48389"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "072ffed8-92c9-4e7a-3cce-8a1bca540e16": {
+      "attributes": {
+        "name": "Deku Shield"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "position": {
+          "x": 324,
+          "y": 99
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "0f5cc56a-d3c5-12f5-5d89-ac15c8c13845": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "c897a264-5627-db6f-bb65-5fc4f1c6216c",
+        "src": "75546f1b-3fe1-173f-48a5-5b4bd0365451"
+      },
+      "registry": {
+        "position": {
+          "x": 328,
+          "y": 582
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "10b1bcac-1e7f-087a-08d0-abb54832e0b9": {
+      "attributes": {
+        "name": "Goron Bracelet"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "position": {
+          "x": 238,
+          "y": 358
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "150ee38d-5a60-53da-bc89-8fef66909979": {
+      "attributes": {
+        "name": "Epona"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "diagramDesignerWidgetDecoratorDisabledConnectionAreas_ModelDecoratorDiagramDesignerWidget": [
+          "W",
+          "E"
+        ],
+        "position": {
+          "x": 679,
+          "y": 630
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "174d335d-865f-c4f3-3761-87ddde324adc": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "b903890a-d132-b52f-edbf-93eacbf48389",
+        "src": "fc00499e-1b38-1651-c44b-e05d0bf6a56e"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58": {
+      "attributes": {
+        "name": "Ocarina of Time"
+      },
+      "base": "2c2bd0fa-3392-4e3a-871c-cb8d29c1eeee",
+      "meta": {},
+      "parent": "03d36072-9e09-7866-cb4e-d0a36ff825f6",
+      "pointers": {
+        "base": "2c2bd0fa-3392-4e3a-871c-cb8d29c1eeee"
+      },
+      "registry": {
+        "position": {
+          "x": 41,
+          "y": 68
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "2c2bd0fa-3392-4e3a-871c-cb8d29c1eeee": {
+      "attributes": {
+        "name": "Graph"
+      },
+      "base": "cd891e7b-e2ea-e929-f6cd-9faf4f1fc045",
+      "meta": {
+        "attributes": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "children": {
+          "items": [
+            "2c98c810-6324-a882-0f22-faf8aab93689",
+            "85d374f0-03f1-b7ba-cf01-6af945f110fc"
+          ],
+          "minItems": [
+            -1,
+            -1
+          ],
+          "maxItems": [
+            -1,
+            -1
+          ]
+        }
+      },
+      "parent": "03d36072-9e09-7866-cb4e-d0a36ff825f6",
+      "pointers": {
+        "base": "cd891e7b-e2ea-e929-f6cd-9faf4f1fc045"
+      },
+      "registry": {
+        "position": {
+          "x": 12,
+          "y": 858
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "2c98c810-6324-a882-0f22-faf8aab93689": {
+      "attributes": {
+        "name": "Item"
+      },
+      "base": "cd891e7b-e2ea-e929-f6cd-9faf4f1fc045",
+      "meta": {},
+      "parent": "03d36072-9e09-7866-cb4e-d0a36ff825f6",
+      "pointers": {
+        "base": "cd891e7b-e2ea-e929-f6cd-9faf4f1fc045"
+      },
+      "registry": {
+        "position": {
+          "x": 12,
+          "y": 812
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "2dd7867b-7776-bdb3-95c7-f9b21fb00252": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "75546f1b-3fe1-173f-48a5-5b4bd0365451",
+        "src": "7dc1ef82-9874-7bbc-bcb9-cf88905b2232"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "33fdca3a-cf39-d820-d6c2-8ed1bee33ed4": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "04af1225-eb30-339d-5c2a-243fe66ddace",
+        "src": "431458ac-345c-bfed-543d-1503f077e2e9"
+      },
+      "registry": {
+        "position": {
+          "x": 333,
+          "y": 664
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "431458ac-345c-bfed-543d-1503f077e2e9": {
+      "attributes": {
+        "name": "Ocarina of Time"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "position": {
+          "x": 237,
+          "y": 638
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "449f3219-6f9f-7e1a-69e1-275f01f3533f": {
+      "attributes": {
+        "name": "Kokiri Sword"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "position": {
+          "x": 141,
+          "y": 99
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "4fc002bb-644b-9afa-0f03-6fede9f730ec": {
+      "attributes": {
+        "name": "Goron Ruby"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "position": {
+          "x": 240,
+          "y": 500
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "5415fb3e-ffc5-09c4-1096-2724ae080234": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "bfb905f3-3529-0f41-628e-313604510e58",
+        "src": "b903890a-d132-b52f-edbf-93eacbf48389"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "59ac9c14-a143-c7ba-da49-f850ce6dc526": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "fc00499e-1b38-1651-c44b-e05d0bf6a56e",
+        "src": "072ffed8-92c9-4e7a-3cce-8a1bca540e16"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "5a7a7f3a-9fd0-ae60-5937-8f9b2f258768": {
+      "attributes": {
+        "name": "Hylian Shield"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "position": {
+          "x": 56,
+          "y": 317
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "75546f1b-3fe1-173f-48a5-5b4bd0365451": {
+      "attributes": {
+        "name": "Boomerang"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "diagramDesignerWidgetDecoratorDisabledConnectionAreas_ModelDecoratorDiagramDesignerWidget": [
+          "W",
+          "E"
+        ],
+        "position": {
+          "x": 410,
+          "y": 497
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "7a470b58-1174-3af7-e4ef-c8ea8f87cd48": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "431458ac-345c-bfed-543d-1503f077e2e9",
+        "src": "4fc002bb-644b-9afa-0f03-6fede9f730ec"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "7dc1ef82-9874-7bbc-bcb9-cf88905b2232": {
+      "attributes": {
+        "name": "Bomb bag"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "position": {
+          "x": 240,
+          "y": 427
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "85d374f0-03f1-b7ba-cf01-6af945f110fc": {
+      "attributes": {
+        "name": "requiredFor"
+      },
+      "base": "cd891e7b-e2ea-e929-f6cd-9faf4f1fc045",
+      "meta": {
+        "attributes": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "pointers": {
+          "src": {
+            "items": [
+              "2c98c810-6324-a882-0f22-faf8aab93689"
+            ],
+            "minItems": [
+              -1
+            ],
+            "maxItems": [
+              1
+            ],
+            "max": 1,
+            "min": 1
+          },
+          "dst": {
+            "items": [
+              "2c98c810-6324-a882-0f22-faf8aab93689"
+            ],
+            "minItems": [
+              -1
+            ],
+            "maxItems": [
+              1
+            ],
+            "max": 1,
+            "min": 1
+          }
+        }
+      },
+      "parent": "03d36072-9e09-7866-cb4e-d0a36ff825f6",
+      "pointers": {
+        "base": "cd891e7b-e2ea-e929-f6cd-9faf4f1fc045",
+        "dst": null,
+        "src": null
+      },
+      "registry": {
+        "lineEndArrow": "block-xwide-xlong",
+        "position": {
+          "x": 3,
+          "y": 912
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "93dd35af-13e0-d905-a39d-772add0f373a": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "fc00499e-1b38-1651-c44b-e05d0bf6a56e",
+        "src": "449f3219-6f9f-7e1a-69e1-275f01f3533f"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "a353e2c1-61dc-72ea-7778-452d28349160": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "c2eae233-5989-2d19-4f60-67a89006a318",
+        "src": "150ee38d-5a60-53da-bc89-8fef66909979"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "b6610f2a-3239-2eaa-96dd-4dcc5f292f05": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "431458ac-345c-bfed-543d-1503f077e2e9",
+        "src": "c897a264-5627-db6f-bb65-5fc4f1c6216c"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "b903890a-d132-b52f-edbf-93eacbf48389": {
+      "attributes": {
+        "name": "Fairy Ocarina"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "position": {
+          "x": 228,
+          "y": 263
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "bc3f33b9-0348-272b-9761-9c741b7d28c1": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "4fc002bb-644b-9afa-0f03-6fede9f730ec",
+        "src": "7dc1ef82-9874-7bbc-bcb9-cf88905b2232"
+      },
+      "registry": {
+        "position": {
+          "x": 344,
+          "y": 515
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "bfb905f3-3529-0f41-628e-313604510e58": {
+      "attributes": {
+        "name": "Eponas song"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "diagramDesignerWidgetDecoratorDisabledConnectionAreas_ModelDecoratorDiagramDesignerWidget": [
+          "W",
+          "E"
+        ],
+        "position": {
+          "x": 648,
+          "y": 455
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "c0656286-2e82-a2f7-9ced-68abe6a69c1f": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "ddf71da2-44ad-d87d-469a-adbbdbc6c2df",
+        "src": "04af1225-eb30-339d-5c2a-243fe66ddace"
+      },
+      "registry": {
+        "position": {
+          "x": 333,
+          "y": 664
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "c2eae233-5989-2d19-4f60-67a89006a318": {
+      "attributes": {
+        "name": "Biggoron Sword"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "diagramDesignerWidgetDecoratorDisabledConnectionAreas_ModelDecoratorDiagramDesignerWidget": [
+          "W",
+          "E"
+        ],
+        "position": {
+          "x": 496,
+          "y": 879
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "c7dd6129-2c9a-60e7-d987-7caa48e4cc44": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "7dc1ef82-9874-7bbc-bcb9-cf88905b2232",
+        "src": "10b1bcac-1e7f-087a-08d0-abb54832e0b9"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "c897a264-5627-db6f-bb65-5fc4f1c6216c": {
+      "attributes": {
+        "name": "Zora Sapphire"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "position": {
+          "x": 415,
+          "y": 556
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "cd891e7b-e2ea-e929-f6cd-9faf4f1fc045": {
+      "attributes": {
+        "name": "FCO"
+      },
+      "base": null,
+      "meta": {
+        "attributes": {},
+        "children": {
+          "items": [],
+          "minItems": [],
+          "maxItems": []
+        }
+      },
+      "parent": "03d36072-9e09-7866-cb4e-d0a36ff825f6",
+      "pointers": {
+        "base": null
+      },
+      "registry": {
+        "DisplayFormat": "$name",
+        "PortSVGIcon": "",
+        "SVGIcon": "",
+        "decorator": "",
+        "isAbstract": false,
+        "isPort": false,
+        "position": {
+          "x": 12,
+          "y": 763
+        },
+        "validVisualizers": "ModelEditor METAAspect SetEditor Crosscut GraphViz"
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "cee3ff11-7838-3e3c-46db-653927fc3221": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "5a7a7f3a-9fd0-ae60-5937-8f9b2f258768",
+        "src": "b903890a-d132-b52f-edbf-93eacbf48389"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "d7eb17ad-b5bd-cbb9-517d-69c293c7069a": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "150ee38d-5a60-53da-bc89-8fef66909979",
+        "src": "bfb905f3-3529-0f41-628e-313604510e58"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "ddf71da2-44ad-d87d-469a-adbbdbc6c2df": {
+      "attributes": {
+        "name": "Zora Tunic"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "diagramDesignerWidgetDecoratorDisabledConnectionAreas_ModelDecoratorDiagramDesignerWidget": [
+          "W",
+          "E"
+        ],
+        "position": {
+          "x": 237,
+          "y": 778
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "e82fcff0-3900-b735-4674-303f0874671e": {
+      "attributes": {},
+      "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "85d374f0-03f1-b7ba-cf01-6af945f110fc",
+        "dst": "c2eae233-5989-2d19-4f60-67a89006a318",
+        "src": "ddf71da2-44ad-d87d-469a-adbbdbc6c2df"
+      },
+      "registry": {
+        "position": {
+          "x": 100,
+          "y": 100
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    },
+    "fc00499e-1b38-1651-c44b-e05d0bf6a56e": {
+      "attributes": {
+        "name": "Slingshot"
+      },
+      "base": "2c98c810-6324-a882-0f22-faf8aab93689",
+      "meta": {},
+      "parent": "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58",
+      "pointers": {
+        "base": "2c98c810-6324-a882-0f22-faf8aab93689"
+      },
+      "registry": {
+        "position": {
+          "x": 232,
+          "y": 186
+        }
+      },
+      "sets": {},
+      "constraints": {}
+    }
+  },
+  "relids": {
+    "03d36072-9e09-7866-cb4e-d0a36ff825f6": null,
+    "04af1225-eb30-339d-5c2a-243fe66ddace": "1274293843",
+    "066abe24-8d3b-05a9-cb79-858ce2229b59": "708456162",
+    "072ffed8-92c9-4e7a-3cce-8a1bca540e16": "613359455",
+    "0f5cc56a-d3c5-12f5-5d89-ac15c8c13845": "561037222",
+    "10b1bcac-1e7f-087a-08d0-abb54832e0b9": "481124429",
+    "150ee38d-5a60-53da-bc89-8fef66909979": "303737244",
+    "174d335d-865f-c4f3-3761-87ddde324adc": "1205129741",
+    "2b6b1c99-2bb0-ed7e-8c28-6a8690239e58": "549164208",
+    "2c2bd0fa-3392-4e3a-871c-cb8d29c1eeee": "1692421964",
+    "2c98c810-6324-a882-0f22-faf8aab93689": "166420995",
+    "2dd7867b-7776-bdb3-95c7-f9b21fb00252": "972685958",
+    "33fdca3a-cf39-d820-d6c2-8ed1bee33ed4": "365835852",
+    "431458ac-345c-bfed-543d-1503f077e2e9": "1008897395",
+    "449f3219-6f9f-7e1a-69e1-275f01f3533f": "2144201144",
+    "4fc002bb-644b-9afa-0f03-6fede9f730ec": "1726184710",
+    "5415fb3e-ffc5-09c4-1096-2724ae080234": "756869598",
+    "59ac9c14-a143-c7ba-da49-f850ce6dc526": "697249686",
+    "5a7a7f3a-9fd0-ae60-5937-8f9b2f258768": "1439973855",
+    "75546f1b-3fe1-173f-48a5-5b4bd0365451": "1292570779",
+    "7a470b58-1174-3af7-e4ef-c8ea8f87cd48": "104226054",
+    "7dc1ef82-9874-7bbc-bcb9-cf88905b2232": "1117383083",
+    "85d374f0-03f1-b7ba-cf01-6af945f110fc": "600008117",
+    "93dd35af-13e0-d905-a39d-772add0f373a": "1776202342",
+    "a353e2c1-61dc-72ea-7778-452d28349160": "1629996611",
+    "b6610f2a-3239-2eaa-96dd-4dcc5f292f05": "1445596346",
+    "b903890a-d132-b52f-edbf-93eacbf48389": "427654537",
+    "bc3f33b9-0348-272b-9761-9c741b7d28c1": "675233953",
+    "bfb905f3-3529-0f41-628e-313604510e58": "494932701",
+    "c0656286-2e82-a2f7-9ced-68abe6a69c1f": "1734541423",
+    "c2eae233-5989-2d19-4f60-67a89006a318": "1710736086",
+    "c7dd6129-2c9a-60e7-d987-7caa48e4cc44": "950181830",
+    "c897a264-5627-db6f-bb65-5fc4f1c6216c": "326525533",
+    "cd891e7b-e2ea-e929-f6cd-9faf4f1fc045": "1",
+    "cee3ff11-7838-3e3c-46db-653927fc3221": "1301767630",
+    "d7eb17ad-b5bd-cbb9-517d-69c293c7069a": "225054969",
+    "ddf71da2-44ad-d87d-469a-adbbdbc6c2df": "2032428082",
+    "e82fcff0-3900-b735-4674-303f0874671e": "1117490060",
+    "fc00499e-1b38-1651-c44b-e05d0bf6a56e": "373776005"
+  },
+  "metaSheets": {}
+}

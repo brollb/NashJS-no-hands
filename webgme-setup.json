@@ -9,7 +9,11 @@
     "addons": {},
     "decorators": {},
     "layouts": {},
-    "seeds": {},
+    "seeds": {
+      "NashJS": {
+        "src": "src/seeds/NashJS"
+      }
+    },
     "visualizers": {}
   },
   "dependencies": {
