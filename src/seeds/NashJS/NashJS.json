@@ -48,7 +48,7 @@
   "nodes": {
     "03d36072-9e09-7866-cb4e-d0a36ff825f6": {
       "attributes": {
-        "name": "ROOT"
+        "name": "Caretaker"
       },
       "base": null,
       "meta": {
@@ -440,7 +440,7 @@
       },
       "registry": {
         "position": {
-          "x": 141,
+          "x": 145,
           "y": 99
         }
       },

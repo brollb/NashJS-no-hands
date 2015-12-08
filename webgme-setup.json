@@ -6,7 +6,11 @@
         "test": "test/plugins/QueryDependencies"
       }
     },
-    "addons": {},
+    "addons": {
+      "NameMaker": {
+        "src": "src/addons/NameMaker"
+      }
+    },
     "decorators": {},
     "layouts": {},
     "seeds": {
